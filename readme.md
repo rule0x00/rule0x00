@@ -13,8 +13,8 @@ Welcome to my GitHub Profile!
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rule0x00&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rule0x00&theme=tokyonight" alt="GitHub Streak" height="200"/>
 </p>
 
 ---
@@ -22,7 +22,7 @@ Welcome to my GitHub Profile!
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rule0x00&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ---
@@ -38,7 +38,7 @@ Welcome to my GitHub Profile!
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rule0x00&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@ Welcome to my GitHub Profile!
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rule0x00&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
 
 ---
