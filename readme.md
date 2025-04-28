@@ -1,12 +1,9 @@
-# Hi there, I'm [Your Name] 👋
+Welcome to my GitHub Profile
 
-Welcome to my GitHub Profile!
+- 🔭 I’m currently leading a Generative AI project, building intelligent systems with Python, LangChain, and modern AI frameworks.
+- 🌱 I'm a Software Developer specializing in designing robust backend architectures and scalable APIs.
+- 🚀 I'm continuously learning and innovating in the field of Software Development, crafting advanced applications that push the boundaries of automation and intelligence.
 
-- 🔭 I’m currently working on exciting AI/ML projects
-- 🌱 I’m learning advanced backend and GenAI architectures
-- 💬 Ask me about Full Stack Development, AI Agents, and Automation
-- 📫 How to reach me: [your.email@example.com]
-- ⚡ Fun fact: I love building things that make life easier!
 
 ---
 
@@ -35,7 +32,7 @@ Welcome to my GitHub Profile!
 
 ---
 
-## 📊 Most Used Languages
+## 📊 Most Used tools and tech
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rule0x00&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
