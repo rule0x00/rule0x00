@@ -22,7 +22,7 @@ Welcome to my GitHub Profile!
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rule0x00&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rule0x00&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ---
