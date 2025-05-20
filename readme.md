@@ -1,8 +1,10 @@
 Welcome to my GitHub Profile
 
-- 🔭 I’m currently leading a Generative AI project, building intelligent systems with Python, LangChain, and modern AI frameworks.
-- 🌱 I'm a Software Developer specializing in designing robust backend architectures and scalable APIs.
-- 🚀 I'm continuously learning and innovating in the field of Software Development, crafting advanced applications that push the boundaries of automation and intelligence.
+🔭 I’m currently leading a Generative AI project, building intelligent systems with Python, LangChain, and modern AI frameworks — while staying grounded in my core strength: developing high-performance backend systems using Node.js and TypeScript.
+
+🌱 I'm a Software Developer with deep expertise in Node.js + TypeScript, specializing in designing robust backend architectures and scalable APIs.
+
+🚀 I'm continuously learning and innovating in the field of Software Development, leveraging my backend skills to craft advanced applications that push the boundaries of automation and intelligence.
 
 
 ---
