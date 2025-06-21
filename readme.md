@@ -4,7 +4,7 @@ Welcome to my GitHub Profile
 
 🌱 I'm a Software Developer with deep expertise in Express + TypeScript, specializing in designing robust backend architectures and scalable APIs.
 
-🚀 I'm continuously learning and innovating in the field of Software Development, leveraging my backend skills to craft advanced applications that push the boundaries of automation and intelligence.
+🚀 I'm continuously learning and innovating in the field of Software Development, leveraging my backend skills to craft advanced applications that push the boundaries of automation and intelligence..
 
 
 ---
