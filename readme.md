@@ -13,7 +13,7 @@ Welcome to my GitHub Profile
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rule0x00&show_icons=true&theme=dark" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rule0x00&theme=tokyonight" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rule0x00&theme=dark" alt="GitHub Streak" height="200"/>
 </p>
 
 ---
