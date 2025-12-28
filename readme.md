@@ -49,5 +49,3 @@ Welcome to my GitHub Profile
 </p>
 
 ---
-
----
